@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xml解析技术：dom和sax -->
+<!-- dom解析：根据xml的层级结构分配一个树形结构，把xml标签属性和文本都封装成对象。 -->
+<!-- 优点：很方便地实现增删改操作 -->
+<!-- 缺点：如果文件过大，可能会造成内存溢出 -->
+
+<!-- sax解析：采用事件驱动，边读边解析 -->
+<!-- 从上到下，一行一行进行解析，解析到某一个对象，返回对象名称 -->
+<!-- 优点：不能实现增删改操作 -->
+<!-- 缺点：如果文件过大，不会造成内存溢出，方便实现查询操作 -->
+
+<!-- 想要解析xml，需要一个解析器 -->
+<!-- sun公司 jaxp -->
+<!-- dom4j组织 dom4j （*****实际开发*****）-->
+<!-- jdom组织 jdom -->
+
+
+<!-- jaxp是javaSE的一部分，在javax.xml.parsers中 -->
+<!-- 四个类：分别针对dom和sax解析使用的类 -->
+<!-- dom：DocumentBuilder 解析器类；抽象类，可以通过DocumentBuilderFactory得到
+            解析xml的方法 parser（"xml路径"）返回Document整个文档
+            在Document里用getElementbyTagName(String tagname)得到
+    DocumentBuilderFactory 解析器工厂  抽象类 通过newInstance()得到-->
+<!-- sax：SAXParser 解析器类;SAXParserFactory 解析器工厂 -->

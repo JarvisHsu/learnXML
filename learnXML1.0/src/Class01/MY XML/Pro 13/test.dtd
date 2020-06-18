@@ -1,0 +1,8 @@
+<!-- 步骤1、看xml中有多少个元素-->
+<!-- 有几个元素，就写几个<!ELEMENT> -->
+<!-- 步骤2、判断元素是简单元素还是复杂元素 -->
+<!-- 简单元素：没有子元素 -->
+<!-- 复杂元素：有子元素的元素 -->
+<!ELEMENT person (name,age)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>

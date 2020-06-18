@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- dtd的三种引入方式 -->
+<!-- 1、<!DOCTYPE 根元素名称 SYSTEM "dtd路径"> -->
+<!-- <!DOCTYPE person SYSTEM "test.dtd"> -->
+<!-- 2、使用内部的dtd文件 -->
+<!DOCTYPE person [
+    <!ELEMENT person (name,age)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+]>
+<!-- 3、使用网络上的dtd文件 -->
+<!-- <!DOCTYPE person PUBLIC "public-id" "DTD文档的URL"> -->
+<person>
+    <name>zhangsan</name>
+    <age>20</age>
+</person>

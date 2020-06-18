@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- DTD快速入门-->
+<!-- 引入dtd文件 -->
+<!DOCTYPE person SYSTEM "test.dtd">
+<!-- 浏览器只负责校验语法，不负责校验约束 -->
+<person>
+    <name>zhangsan</name>
+    <age>20</age>
+</person>
