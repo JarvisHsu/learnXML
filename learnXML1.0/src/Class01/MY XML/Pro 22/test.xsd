@@ -34,7 +34,7 @@
                 <!--            </choice>-->
                 <!--            </all>-->
             </sequence>
-<!--            约束属性 name 属性名称 type 属性类型 use 是否必须出现-->
+            <!--            约束属性 name 属性名称 type 属性类型 use 是否必须出现-->
             <attribute name="id1" type="int" use="required"></attribute>
         </complexType>
     </element>

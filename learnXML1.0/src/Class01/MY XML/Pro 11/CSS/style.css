@@ -1,8 +1,9 @@
-*{
-    font: 20px 微软雅黑,宋体,黑体;
-    background:rgba(255, 255, 255, 0.3);
+* {
+    font: 20px 微软雅黑, 宋体, 黑体;
+    background: rgba(255, 255, 255, 0.3);
 }
-#id1{
+
+#id1 {
     font-size: larger;
     color: red;
 }

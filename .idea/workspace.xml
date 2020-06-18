@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studentInformationManagement/studentInformationManagement.iml" afterDir="false" />
+    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="update dom4jTest">
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/StuInfoManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/lib/dom4j-2.0.3/dom4j-2.0.3-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/lib/dom4j-2.0.3/dom4j-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/lib/dom4j-2.0.3/jaxen-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/service/StuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/test/TestStu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/utils/Dom4jUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StuInfoManagement/src/student.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.dtd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 13/test.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 13/test.dtd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 14/test.dtd" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 14/test.dtd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 14/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 14/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xsd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/dom4jtest/TestDom4j.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/dom4jtest/TestDom4j.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentInformationManagement/studentInformationManagement.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,36 +58,84 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java">
+        <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/student.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-166">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="397">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="108">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/test/TestStu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="378">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/service/StuService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/utils/Dom4jUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -101,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml" />
-        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xsd" />
@@ -111,6 +177,16 @@
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" />
+        <option value="$PROJECT_DIR$/studentInformationManagement/src/student.xml" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/cn/incast/service/StuService.java" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/vo/Student.java" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/utils/Dom4jUtils.java" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/student.xml" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/service/StuService.java" />
+        <option value="$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/test/TestStu.java" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.xml" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml" />
       </list>
     </option>
   </component>
@@ -121,10 +197,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="312" />
-    <option name="y" value="-15" />
+    <option name="x" value="313" />
+    <option name="y" value="-21" />
     <option name="width" value="1134" />
-    <option name="height" value="1002" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -144,11 +220,18 @@
           <expand>
             <path>
               <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="StuInfoManagement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studentInformationManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="StuInfoManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StuInfoManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,15 +265,6 @@
           </expand>
           <select />
         </subPane>
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="learnXML" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="studentInformationManagement" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
       </pane>
     </panes>
   </component>
@@ -201,7 +275,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/studentInformationManagement/lib/dom4j-2.0.3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -211,9 +285,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\My programs\Java Programs\learnXML\studentInformationManagement" />
       <recent name="F:\My programs\Java Programs\learnXML\learnXML1.0\lib\dom4j-2.0.3" />
       <recent name="F:\My programs\Java Programs\learnXML\learnXML1.0\lib" />
       <recent name="F:\My programs\Java Programs\learnXML\learnXML1.0\src\Class01\MY XML" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.utils" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\My programs\Java Programs\learnXML\learnXML1.0\src\Class01" />
@@ -231,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDom4jXpath">
+  <component name="RunManager" selected="Application.TestStu">
     <configuration name="TestDom4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class01.cn.itcast.dom4jtest.TestDom4j" />
       <module name="learnXML1.0" />
@@ -284,8 +362,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.TestStu" />
+      <module name="StuInfoManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStu" />
         <item itemvalue="Application.TestDom4jXpath" />
         <item itemvalue="Application.TestDom4j" />
         <item itemvalue="Application.TestSax" />
@@ -304,7 +396,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592407221588</updated>
       <workItem from="1592407223095" duration="2854000" />
-      <workItem from="1592433424242" duration="32344000" />
+      <workItem from="1592433424242" duration="34309000" />
     </task>
     <task id="LOCAL-00001" summary="update dom4jTest">
       <created>1592448632735</created>
@@ -341,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592476224289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
+      <created>1592491342361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592491342361</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35198000" />
+    <option name="totallyTimeSpent" value="37163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,26 +457,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.16044776" />
-      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" weight="0.32897863" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897863" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2578125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897863" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897863" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.30580357" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989083" weight="0.328125" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4989339" weight="0.30580357" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.26439232" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="0" weight="0.32897863" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.2578125" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32897863" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897863" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010661" side_tool="true" weight="0.30580357" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989083" weight="0.328125" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" sideWeight="0.4989339" visible="true" weight="0.30580357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -419,22 +519,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update dom4j.jar" />
-    <MESSAGE value="update dom4jTest" />
     <MESSAGE value="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
+    <MESSAGE value="update dom4jTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dom4jTest" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 12/test.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -443,13 +536,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 14/test.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -529,31 +615,11 @@
     <entry file="jar://$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3/dom4j-2.0.3-javadoc.jar!/help-doc.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3/dom4j-2.0.3-javadoc.jar!/org/dom4j/xpath/DefaultNamespaceContext.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3/dom4j-2.0.3-javadoc.jar!/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3/dom4j-2.0.3.jar!/org/dom4j/DocumentHelper.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -597,6 +663,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -604,15 +682,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java">
+    <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/vo/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="162">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/StuInfoManagement/lib/dom4j-2.0.3/dom4j-2.0.3.jar!/org/dom4j/Branch.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/utils/Dom4jUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/service/StuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/cn/itcast/test/TestStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Practice 1/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="123" column="7" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StuInfoManagement/src/student.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 15/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 11/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -666,7 +837,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>learnXML1.0</last-edited>
+          <last-edited>studentInformationManagement</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

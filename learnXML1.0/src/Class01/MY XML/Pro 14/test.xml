@@ -4,10 +4,10 @@
 <!-- <!DOCTYPE person SYSTEM "test.dtd"> -->
 <!-- 2、使用内部的dtd文件 -->
 <!DOCTYPE person [
-    <!ELEMENT person (name,age)>
-    <!ELEMENT name (#PCDATA)>
-    <!ELEMENT age (#PCDATA)>
-]>
+        <!ELEMENT person (name,age)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT age (#PCDATA)>
+        ]>
 <!-- 3、使用网络上的dtd文件 -->
 <!-- <!DOCTYPE person PUBLIC "public-id" "DTD文档的URL"> -->
 <person>

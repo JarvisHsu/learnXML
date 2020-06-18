@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StuInfoManagement/StuInfoManagement.iml" filepath="$PROJECT_DIR$/StuInfoManagement/StuInfoManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnXML1.0/learnXML1.0.iml" filepath="$PROJECT_DIR$/learnXML1.0/learnXML1.0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/studentInformationManagement/studentInformationManagement.iml" filepath="$PROJECT_DIR$/studentInformationManagement/studentInformationManagement.iml" />
     </modules>
   </component>
 </project>

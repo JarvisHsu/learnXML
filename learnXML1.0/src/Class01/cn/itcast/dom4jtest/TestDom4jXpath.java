@@ -10,8 +10,9 @@ public class TestDom4jXpath {
     public static void main(String[] args) {
         selectP1name();
     }
+
     //获取第一个p1下的name的值
-    private static void selectP1name(){
+    private static void selectP1name() {
         /*
         1、创建解析器
           2、得到document
@@ -24,8 +25,9 @@ public class TestDom4jXpath {
         Node name = document.selectSingleNode("//p1[@ID1='aaa']/name");
         System.out.println(name.getText());
     }
+
     //使用Xpath实现查询所有name元素的值
-    private static void selectAllName(){
+    private static void selectAllName() {
         /*
         1、创建解析器
           2、得到document

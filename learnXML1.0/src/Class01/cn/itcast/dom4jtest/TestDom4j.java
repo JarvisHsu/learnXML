@@ -13,8 +13,9 @@ public class TestDom4j {
     public static void main(String[] args) {
         getValues();
     }
+
     //获取第一个p1的id值
-    private static void getValues(){
+    private static void getValues() {
         /*
         1、创建解析器
           2、得到document
@@ -24,7 +25,7 @@ public class TestDom4j {
           5、获取id值
          */
         //1 2
-        Document document =Dom4jUtils.getDocument(Dom4jUtils.PATH);
+        Document document = Dom4jUtils.getDocument(Dom4jUtils.PATH);
         //3
         Element root = document.getRootElement();
         //4
@@ -33,8 +34,9 @@ public class TestDom4j {
         String p1_id_value = p1.attributeValue("ID1");
         System.out.println(p1_id_value);
     }
+
     //删除第一个p1下<school>cn.edu.xust</school>
-    private static void removeSchool(){
+    private static void removeSchool() {
         /*
         1、创建解析器
           2、得到document
@@ -54,9 +56,10 @@ public class TestDom4j {
         //5
         p1.remove(p1.element("school"));
         //6
-        Dom4jUtils.xmlWriters(document,Dom4jUtils.PATH);
+        Dom4jUtils.xmlWriters(document, Dom4jUtils.PATH);
 
     }
+
     //修改第一个p1下面的age元素的值<age>30</age>
     private static void modifyAge() {
         /*
@@ -81,7 +84,7 @@ public class TestDom4j {
         //6
         age.setText("30");
         //7
-        Dom4jUtils.xmlWriters(document,Dom4jUtils.PATH);
+        Dom4jUtils.xmlWriters(document, Dom4jUtils.PATH);
     }
 
     //在第一个p1标签age元素之前添加<school>cn.edu.xust/</school>

@@ -24,9 +24,10 @@ public class TestJaxp {
 
     /**
      * 遍历xml中所有节点
+     *
      * @throws Exception
      */
-    public static void traverse()throws Exception{
+    public static void traverse() throws Exception {
         /**
          * 1、创建解析器工厂
          * 2、创建解析器
@@ -42,8 +43,9 @@ public class TestJaxp {
         Document document = builder.parse(URL);
         recursive(document);
     }
+
     private static void recursive(Node node) {
-        if (node.getNodeType()==Node.ELEMENT_NODE){
+        if (node.getNodeType() == Node.ELEMENT_NODE) {
             System.out.println(node.getNodeName());
         }
         NodeList list = node.getChildNodes();

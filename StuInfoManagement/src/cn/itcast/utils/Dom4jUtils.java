@@ -1,4 +1,4 @@
-package Class01.cn.itcast.utils;
+package cn.itcast.utils;
 
 import org.dom4j.Document;
 import org.dom4j.io.OutputFormat;
@@ -8,7 +8,7 @@ import org.dom4j.io.XMLWriter;
 import java.io.FileOutputStream;
 
 public class Dom4jUtils {
-    public static final String PATH = "learnXML1.0/src/Class01/MY XML/Pro 16/test.xml";
+    public static final String PATH = "StuInfoManagement/src/student.xml";
 
     /**
      * 得到document

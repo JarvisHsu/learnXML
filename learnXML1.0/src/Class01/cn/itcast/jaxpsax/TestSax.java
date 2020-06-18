@@ -35,6 +35,7 @@ public class TestSax {
 class MyDefault2 extends DefaultHandler {
     boolean flag = false;
     int index = 1;
+
     @Override
     public void startElement(String uri, String localName, String qName, Attributes attributes) throws SAXException {
         //判断qName是否为name元素
@@ -45,7 +46,7 @@ class MyDefault2 extends DefaultHandler {
 
     @Override
     public void characters(char[] ch, int start, int length) throws SAXException {
-        if (flag == true && index ==1) {
+        if (flag == true && index == 1) {
             System.out.println(new String(ch, start, length));
         }
     }
