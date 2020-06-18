@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Lenovo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" afterDir="false" />
+    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studentInformationManagement/studentInformationManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" afterDir="false" />
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="-166">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,12 +50,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="378">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -104,9 +107,10 @@
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xsd" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java" />
-        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java" />
       </list>
     </option>
   </component>
@@ -117,8 +121,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="505" />
-    <option name="y" value="-18" />
+    <option name="x" value="312" />
+    <option name="y" value="-15" />
     <option name="width" value="1134" />
     <option name="height" value="1002" />
   </component>
@@ -144,21 +148,7 @@
             </path>
             <path>
               <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Class01" type="462c0819:PsiDirectoryNode" />
-              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="studentInformationManagement" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,11 +186,7 @@
           <expand>
             <path>
               <item name="learnXML" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\My programs\Java Programs\learnXML" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="learnXML" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="learnXML1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="studentInformationManagement" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -245,9 +231,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestDom4j">
+  <component name="RunManager" selected="Application.TestDom4jXpath">
     <configuration name="TestDom4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class01.cn.itcast.dom4jtest.TestDom4j" />
+      <module name="learnXML1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class01.cn.itcast.dom4jtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDom4jXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class01.cn.itcast.dom4jtest.TestDom4jXpath" />
       <module name="learnXML1.0" />
       <extension name="coverage">
         <pattern>
@@ -287,6 +286,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDom4jXpath" />
         <item itemvalue="Application.TestDom4j" />
         <item itemvalue="Application.TestSax" />
         <item itemvalue="Application.TestJaxp" />
@@ -304,7 +304,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592407221588</updated>
       <workItem from="1592407223095" duration="2854000" />
-      <workItem from="1592433424242" duration="27802000" />
+      <workItem from="1592433424242" duration="32344000" />
     </task>
     <task id="LOCAL-00001" summary="update dom4jTest">
       <created>1592448632735</created>
@@ -334,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592467364380</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
+      <created>1592476224289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592476224289</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30656000" />
+    <option name="totallyTimeSpent" value="35198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,18 +357,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="817" y="276" width="1134" height="1002" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18715084" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.16044776" />
       <window_info active="true" anchor="bottom" id="GitHub Pull Requests" weight="0.32897863" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897863" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25890738" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2578125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -369,9 +375,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897863" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010917" side_tool="true" weight="0.32897863" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989083" weight="0.32897863" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32541567" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.30580357" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989083" weight="0.328125" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4989339" weight="0.30580357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -560,17 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="-166">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -579,10 +578,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="method#getValues#0;class#TestDom4j#0" />
+            <element signature="e#357#508#0" />
+            <element signature="method#removeSchool#0;class#TestDom4j#0" />
+            <element signature="method#modifyAge#0;class#TestDom4j#0" />
+            <element signature="method#addSchool#0;class#TestDom4j#0" />
+            <element signature="method#addSex#0;class#TestDom4j#0" />
+            <element signature="method#selectSec#0;class#TestDom4j#0" />
+            <element signature="method#selectSin#0;class#TestDom4j#0" />
+            <element signature="method#selectName#0;class#TestDom4j#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4jXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>

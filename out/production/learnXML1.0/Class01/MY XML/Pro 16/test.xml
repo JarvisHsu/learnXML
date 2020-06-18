@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <person> 
-  <p1> 
+  <p1 ID1="aaa">
     <name>zhangsan</name>  
-    <school>cn.edu.xust</school>
-    <age>20</age>  
+    <age>30</age>  
     <sex>nv</sex> 
   </p1>  
   <p1> 
