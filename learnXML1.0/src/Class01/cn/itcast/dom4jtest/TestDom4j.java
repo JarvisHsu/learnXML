@@ -1,6 +1,7 @@
 package Class01.cn.itcast.dom4jtest;
 
 import org.dom4j.Document;
+import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
@@ -10,7 +11,32 @@ public class TestDom4j {
     private static final String URL = "learnXML1.0/src/Class01/MY XML/Pro 16/test.xml";
 
     public static void main(String[] args) throws Exception {
-        selectName();
+        selectSin();
+    }
+    //获取到一个name元素里的值
+    private static void selectSin() throws Exception {
+        /*
+          1、创建解析器
+          2、得到document
+          3、得到根节点 getRootElement()
+          4、得到第一个p1元素
+          5、得到p1下面的name元素
+          6、得到name元素里的值
+         */
+        //1
+        SAXReader saxReader = new SAXReader();
+        //2
+        Document document = saxReader.read(URL);
+        //3
+        Element root = document.getRootElement();
+        //4
+        Element p1 = root.element("p1");
+        //5
+        Element name1 = p1.element("name");
+        //6
+        System.out.println(name1.getText());
+
+
     }
     //查询xml中所有name元素的值
     private static void selectName() throws Exception {
