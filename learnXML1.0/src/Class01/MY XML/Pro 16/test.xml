@@ -3,8 +3,9 @@
 <person> 
   <p1> 
     <name>zhangsan</name>  
+    <school>cn.edu.xust</school>
     <age>20</age>  
-    <sex>nv</sex>
+    <sex>nv</sex> 
   </p1>  
   <p1> 
     <name>wanglu</name>  

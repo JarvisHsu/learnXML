@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Practice 1/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Practice 1/test.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Practice 1/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 11/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 11/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 12/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 12/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 13/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 13/test.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 13/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 14/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 14/test.dtd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 14/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 15/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 15/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 21/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 21/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 22/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 22/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 22/test.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/框架/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/框架/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/dom4jtest/TestDom4j.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/jaxp/TestJaxp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/jaxpsax/MyDefault1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/jaxpsax/MyDefault2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/jaxpsax/TestSax.class" afterDir="false" />
+    <list default="true" id="66cec21c-ec50-48e9-abd2-83d42bf65a9c" name="Default Changelist" comment="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Lenovo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" beforeDir="false" afterPath="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/MY XML/Pro 16/test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/dom4jtest/TestDom4j.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnXML1.0/Class01/cn/itcast/dom4jtest/TestDom4j.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,14 +36,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+            <state relative-caret-position="117">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#selectName#0;class#TestDom4j#0" />
               </folding>
             </state>
           </provider>
@@ -76,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="135">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -92,8 +79,14 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>URL</find>
+      <find>Dom4jUtils.URL</find>
+    </findStrings>
     <replaceStrings>
       <replace>url</replace>
+      <replace>Dom4jUtils.URL</replace>
+      <replace>Dom4jUtils.PATH</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -110,8 +103,9 @@
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxp/TestJaxp.java" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 22/test.xsd" />
-        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/jaxpsax/TestSax.java" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml" />
+        <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java" />
         <option value="$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
       </list>
     </option>
@@ -122,10 +116,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="16" />
-    <option name="width" value="976" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="505" />
+    <option name="y" value="-18" />
+    <option name="width" value="1134" />
     <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -147,6 +141,24 @@
             <path>
               <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnXML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnXML1.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class01" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +304,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592407221588</updated>
       <workItem from="1592407223095" duration="2854000" />
-      <workItem from="1592433424242" duration="23261000" />
+      <workItem from="1592433424242" duration="27802000" />
     </task>
     <task id="LOCAL-00001" summary="update dom4jTest">
       <created>1592448632735</created>
@@ -315,11 +327,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592461918343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
+      <created>1592467364379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592467364380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26115000" />
+    <option name="totallyTimeSpent" value="30656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,9 +350,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="16" width="976" height="1002" extended-state="0" />
+    <frame x="817" y="276" width="1134" height="1002" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35371178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18715084" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -350,8 +370,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897863" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010917" side_tool="true" weight="0.32897863" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.4989083" visible="true" weight="0.32897863" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32541567" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4989083" weight="0.32897863" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32541567" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -394,7 +414,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update dom4j.jar" />
     <MESSAGE value="update dom4jTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="update dom4jTest" />
+    <MESSAGE value="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dom4jTest&#10;&#10;(cherry picked from commit d83c2080356776f781d7693c53328fa05b81b256)&#10;&#10;# Conflicts:&#10;#&#9;learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -528,20 +549,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/learnXML1.0/lib/dom4j-2.0.3/dom4j-2.0.3.jar!/org/dom4j/DocumentHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/MY XML/Pro 16/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="135">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/utils/Dom4jUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learnXML1.0/src/Class01/cn/itcast/dom4jtest/TestDom4j.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="76" column="19" lean-forward="true" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        <state relative-caret-position="117">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#selectName#0;class#TestDom4j#0" />
           </folding>
         </state>
       </provider>
