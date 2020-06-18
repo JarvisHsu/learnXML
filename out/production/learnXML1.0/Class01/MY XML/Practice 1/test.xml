@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TVSCHEDULE SYSTEM "test.dtd">
+<TVSCHEDULE NAME="">
+<CHANNEL CHAN="">
+    <BANNER></BANNER>
+    <DAY>
+        <DATE></DATE>
+        <PROGRAMSLOT VTR="">
+            <TIME></TIME>
+            <TITLE RATING="" LANGUAGE=""></TITLE>
+            <DESCRIPTION></DESCRIPTION>
+        </PROGRAMSLOT>
+    </DAY>
+</CHANNEL>
+</TVSCHEDULE>

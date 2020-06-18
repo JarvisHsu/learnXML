@@ -58,7 +58,7 @@ public class TestDom4j {
           6、得到第二个p1下面的name
           7、得到name元素里的值
          */
-        //1
+        //1创建解析器
         SAXReader saxReader = new SAXReader();
         //2
         Document document = saxReader.read(URL);

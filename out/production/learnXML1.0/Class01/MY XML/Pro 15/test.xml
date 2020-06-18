@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 使用dtd定义元素 -->
+<!-- 简单元素 -->
+<!-- (#PCDATA) 约束name是字符串类型 -->
+<!-- EMPTY 约束元素为空，没有内容 -->
+<!-- ANY 任意，可为空，可不为空 -->
+<!-- 复杂元素 -->
+<!-- <!DOCTYPE root-element SYSTEM "file.dtd"> -->
+<!-- 表示子元素出现的次数 -->
+<!-- + 可以出现1~多次 -->
+<!-- * 可以出现0~多次 -->
+<!-- ？可以出现0~1次 -->
+<!-- ，分隔各个子元素，也限定子元素顺序 -->
+<!-- | 出现子元素中的任意一个 -->
+<!DOCTYPE person [
+    <!ELEMENT person (name+,age?,sex*,(address|addr),birthday)>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST name ID3 ID #REQUIRED><!--只能以ID开头-->
+    <!ELEMENT age (#PCDATA)>
+    <!ATTLIST age ID2 (AA|BB|CC) #REQUIRED><!--枚举-->
+    <!ELEMENT sex ANY>
+    <!ATTLIST sex ID4 CDATA #FIXED "AAABB"><!--强制使用引号内的内容-->
+    <!ELEMENT address ANY>
+    <!ATTLIST address ID5 CDATA "WWW"><!--默认使用引号内内容-->
+    <!ELEMENT addr (#PCDATA)>
+    <!ELEMENT birthday (#PCDATA)>
+    <!ATTLIST birthday ID1 CDATA #IMPLIED><!--z字符串（可有可无）-->
+
+    <!ENTITY TEST "HADLEE"><!--定义一个实体，类似于常量-->
+]>
+<!-- 3、使用网络上的dtd文件 -->
+<!-- <!DOCTYPE person PUBLIC "public-id" "DTD文档的URL"> -->
+<person>
+    <name ID3="ID_3">zhangsan</name>
+    <name ID3="ID_4">wangwu</name>
+    <name ID3="ID_5">maliu</name>
+    <age ID2="AA">20</age>
+    <sex>&TEST;</sex>
+    <sex ID4="AAABB"></sex>
+    <address ID5="WWW"></address>
+    <birthday>2015</birthday>
+    
+</person>
+<!-- 使用dtd定义属性 -->
+<!-- 语法：<!ATTLIST 元素名称 -->

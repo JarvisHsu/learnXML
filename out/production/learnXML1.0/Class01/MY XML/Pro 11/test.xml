@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 文档声明-->
+<?xml-stylesheet type="text/css" href="CSS/style.css"?>
+<person>
+	<name id="id1" >张三</name>
+	<age>20</age>
+	<sex>nan</sex>
+	<!-- 小于号-->
+	<special>a&lt;b</special>
+	<!-- 大于号 -->
+	<b>a&gt;b</b>
+	<!-- CDATA区，不需要转义 -->
+	<![CDATA[ a<b&&b>a&&{[]}]]>
+</person>

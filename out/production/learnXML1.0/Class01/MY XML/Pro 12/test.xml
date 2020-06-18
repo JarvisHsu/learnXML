@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 需要一个约束，人的属性，比如name，sex，age等。猫不是人的属性，所以应该约束属性 -->
+<!-- 两种约束 dtd约束和schema约束 -->
+<person>
+    <name>zhangsan</name>
+    <age>20</age>
+    <猫>10000</猫>
+</person>

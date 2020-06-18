@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--XML Schema符合XML语法结构。-->
+<!--DOM、SAX等XML API很容易解析出XML Schema文档中的内容。-->
+<!--XML Schema对名称空间支持得非常好。-->
+<!--XML Schema比XML DTD支持更多的数据类型，并支持用户自定义新的数据类型。-->
+<!--XML Schema定义約束的能力非常强大，可以对XML实例文档作出細致的语义限制。-->
+<!--XML Schema不能像DTD一样定义实体，比DTD更复杂，但Xml Schema现在已是W3c组织的标准，它正逐步取代DTD。-->
+<!--1个xml文件中，只能有一个dtd，但可以有多个schema，并使用名称空间来区分-->
+
+
+<!--和xml文件基本没有区别，只是根节点为<schema></schema>-->
+<!--schema文件约束xml文件-->
+<!--w3c提供了属性和标签给schema文件-->
+<!--在schema中 xmlns="http://www.w3.org/2001/XMLSchema" 表示当前xml文件是一个约束文件-->
+<!--targetNamespace="http://www.itcast.cn/2020618" 使用schema约束文件，直接通过这个地址引入约束文件-->
+<!--elementFormDefault="qualified" 质量良好的-->
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.itcast.cn/2020618"
+        elementFormDefault="qualified">
+    <!--简单元素要写在复杂元素的sequence下-->
+    <element name="person">
+        <complexType>
+            <sequence>
+                <!--                表示元素出现的顺序-->
+
+                <!--            <all>-->
+                <!--                表示元素只能出现一次-->
+
+                <!--            <choice>-->
+                <!--                表示元素只能出现其中一个-->
+                <!--                maxOccurs="unbounded"元素无限次出现-->
+                <element name="name" type="string" maxOccurs="unbounded"></element>
+                <element name="age" type="int"></element>
+                <!--            </choice>-->
+                <!--            </all>-->
+            </sequence>
+<!--            约束属性 name 属性名称 type 属性类型 use 是否必须出现-->
+            <attribute name="id1" type="int" use="required"></attribute>
+        </complexType>
+    </element>
+
+</schema>
